@@ -1,4 +1,3 @@
 # deepnoobdev.github.io
-My Personal Website
-Person youre searching is not found
+Person youre searching is not found\n
 humans can't go back in time :(
